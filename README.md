@@ -7,7 +7,7 @@
 **- Not: Tarayıcınız Virüs olarak algılarsa "Sakla" seçeneğine sıklayın.**
 ![Google Chrome]() - Resim Güncellenicek
 
-**- Fabric kurulum dosyasını indirdikten sonra açarak kurulumu yapın:**
+**- Forge kurulum dosyasını indirdikten sonra açarak kurulumu yapın:**
 ![Kurulum]() - Resim Güncellenicek
 
 ## Modlar Nasıl Kurulur?
