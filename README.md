@@ -5,10 +5,10 @@
 **→  https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.22/forge-1.16.5-36.2.22-installer.jar**
 
 **- Not: Tarayıcınız Virüs olarak algılarsa "Sakla" seçeneğine sıklayın.**
-![Google Chrome](https://i.hizliresim.com/28f6206.png)
+![Google Chrome]() - Resim Güncellenicek
 
 **- Fabric kurulum dosyasını indirdikten sonra açarak kurulumu yapın:**
-![Kurulum](https://i.hizliresim.com/b5o2kv6.jpg)
+![Kurulum]() - Resim Güncellenicek
 
 ## Modlar Nasıl Kurulur?
 **1. Modları İndirin**
@@ -20,9 +20,9 @@
 Not: *Windows Tuşu + R* ile çalıştır menüsünü açabilirsiniz
 
 ![Çalıştır](https://i.hizliresim.com/a23sarl.jpg)
-![Resim Gelicek]()
+![Modlar]() - Resim Güncellenicek
 
 **4. Oyununuzu FORGE ile açın**
-![Resim Gelicek]()
+![Oyun]() - Resim Güncellenicek
 
 **Kurulum bu kadar iyi oyunlar ;)**
